@@ -1,16 +1,16 @@
 import WorkElement from './WorkElement';
 
-import PortFolioMobileImg from '../public/works/portfolio-mobile.jpg';
-import PortFolioDesktopImg from '../public/works/portfolio-desktop.jpg';
+import PortFolioMobileImg from '../public/works/portfolio-mobile.JPG';
+import PortFolioDesktopImg from '../public/works/portfolio-desktop.JPG';
 
-import dynamicMobileImg from '../public/works/dynamic-mobile.jpg';
-import DynamicDesktopImg from '../public/works/dynamic-desktop.jpg';
+import dynamicMobileImg from '../public/works/dynamic-mobile.JPG';
+import DynamicDesktopImg from '../public/works/dynamic-desktop.JPG';
 
-import DynamaticsMobileImg from '../public/works/dynamatics-mobile.jpg';
-import DynamaticsDesktopImg from '../public/works/dynamatics-desktop.jpg';
+import DynamaticsMobileImg from '../public/works/dynamatics-mobile.JPG';
+import DynamaticsDesktopImg from '../public/works/dynamatics-desktop.JPG';
 
-import MSTechnicalMobileImg from '../public/works/mstechnical-mobile.jpg';
-import MSTechnicalDesktopImg from '../public/works/mstechnical-desktop.jpg';
+import MSTechnicalMobileImg from '../public/works/mstechnical-mobile.JPG';
+import MSTechnicalDesktopImg from '../public/works/mstechnical-desktop.JPG';
 
 import Slider from 'react-slick';
 import { i18n } from './locale/i18n';
