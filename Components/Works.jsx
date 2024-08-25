@@ -33,7 +33,7 @@ const Works = () => {
       description: `${i18n.t('worksSection.portFOlio.description')}`,
       tools: 'Next Js, TypeScript, Tailwind CSS',
       link: 'https://vercel.app/',
-      code: 'https://github.com/Tahirusman870',
+      code: 'https://github.com/Tahirusman870/My-Portfolio-Next-Js-',
     },
     dynamic: {
       alt: i18n.t('worksSection.dynamic.alt'),
@@ -49,7 +49,7 @@ const Works = () => {
       description: `${i18n.t('worksSection.dynamatics.description')}`,
       tools: 'HTML5, CSS3, JavaScript',
       link: 'https://dynamatics.co/',
-      code: 'https://github.com/Tahirusman870',
+      code: 'https://github.com/Tahirusman870/Dynamatics',
     },
     mstechnical: {
       alt: i18n.t('worksSection.mstechnical.alt'),

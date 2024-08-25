@@ -16,14 +16,14 @@ const About = () => {
           <div className="mb-[1.5rem] flex items-center md:space-x-8">
             <span className="w-[40px] hidden md:block h-[5px] bg-slate-400 rounded-sm "></span>
             <p className="text-[14px] md:text-[16px] text-justify text-slate-200 w-[80%] ">
-              Greetings! I'm Tahir Usman, a dedicated developer. My expertise
+              Greetings! I&apos;m Tahir Usman, a dedicated developer. My expertise
               spans HTML/Css, TypeScript, JavaScript, React.js, and Next.js,
               Figma, Adobe Studio, encompassing front-end development. <br /> I
               have a proven track record of crafting high-quality digital
               solutions, from creating seamless user interfaces with React.js to
               architecting robust backend systems using Node.js. My focus is
               always on delivering clean, efficient, and scalable code that
-              exceeds expectations. <br /> Throughout my career, I've had the
+              exceeds expectations. <br /> Throughout my career, I&apos;ve had the
               opportunity to work on a variety of projects, each presenting
               unique challenges and opportunities for growth. I thrive on the
               continuous learning and problem-solving inherent in the tech
