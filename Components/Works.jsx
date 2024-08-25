@@ -1,22 +1,17 @@
 import WorkElement from './WorkElement';
-
-import PortFolioMobileImg from '../public/works/portfolio-mobile.JPG';
-import PortFolioDesktopImg from '../public/works/portfolio-desktop.JPG';
-
-import dynamicMobileImg from '../public/works/dynamic-mobile.JPG';
-import DynamicDesktopImg from '../public/works/dynamic-desktop.JPG';
-
-import DynamaticsMobileImg from '../public/works/dynamatics-mobile.JPG';
-import DynamaticsDesktopImg from '../public/works/dynamatics-desktop.JPG';
-
-import MSTechnicalMobileImg from '../public/works/mstechnical-mobile.JPG';
-import MSTechnicalDesktopImg from '../public/works/mstechnical-desktop.JPG';
-
 import Slider from 'react-slick';
 import { i18n } from './locale/i18n';
 
 
 const Works = () => {
+  const PortFolioMobileImg = '/works/portfolio-mobile.JPG';
+  const PortFolioDesktopImg = '/works/portfolio-desktop.JPG';
+  const dynamicMobileImg = '/works/dynamic-mobile.JPG';
+  const DynamicDesktopImg = '/works/dynamic-desktop.JPG';
+  const DynamaticsMobileImg = '/works/dynamatics-mobile.JPG';
+  const DynamaticsDesktopImg = '/works/dynamatics-desktop.JPG';
+  const MSTechnicalMobileImg = '/works/mstechnical-mobile.JPG';
+  const MSTechnicalDesktopImg = '/works/mstechnical-desktop.JPG';
   var settings = {
     dots: false,
     infinite: true,
